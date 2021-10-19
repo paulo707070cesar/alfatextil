@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://alfatextil.ml/</title>
+  <link>http://alfatextil.ml/</link>
+
+<item>
+     <link>https://alfatextil.ml/</link>
+     <title>Inicio</title>
+     <description>industriab textil ,fitas persianas,cordão trançado ,fitas de poliester</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://alfatextil.ml/index.html</link>
+     <title>Inicio</title>
+     <description>industriab textil ,fitas persianas,cordão trançado ,fitas de poliester</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://alfatextil.ml/page1.html</link>
+     <title>Sobre</title>
+     <description>Site Builder Description</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://alfatextil.ml/contato.html</link>
+     <title>Contato</title>
+     <description> Industria de fitas texteis e cordões trançados,entre em contato</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
